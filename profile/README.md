@@ -6,5 +6,5 @@
   <a href="https://github.com/officialblake">Blake Marshall</a>, 
   <a href="https://github.com/sean10203040">Sean Farmer</a>, 
   <a href="https://github.com/JacobS999">Jacob Sellers</a>, & 
-  <a href="https://github.com/Iramos16">Isaruo Ramos</a> 📚
+  <a href="https://github.com/Iramos16">Isauro Ramos</a> 📚
 </h3>
