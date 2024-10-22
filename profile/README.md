@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to V1sionaries! 👋</h1>
-<h3 align="center">This is home to the senior capstone project at Sonoma State University in Fall 2024! 🚀</h3>
+<h3 align="center">This is home to our senior capstone project at Sonoma State University in Fall 2024! 🚀</h3>
 
 <h3 align="center">
   Authored by 
